@@ -15,4 +15,4 @@ I composed and manipulated the data from 2 different resources.
 The results are good and reflect the real world in victory ratio, but when we dive deep and look at the simulated number of goals per game we see sometimes not so realistic results, hence we have here a Simpson's paradix.   
 
 ### Note <!> 
-This repo is a part of the project "Prediction of Football Matches"
+This repo is a part of "Prediction of Football Matches" project.
