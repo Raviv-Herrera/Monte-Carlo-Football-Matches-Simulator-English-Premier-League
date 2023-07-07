@@ -1,5 +1,5 @@
 # Monte-Carlo-Simulation-English-Premier-League
-Monte-Carlo simulation generator for the EPL based on xG model  
+Monte-Carlo simulation generator for the English-Premier-League (EPL) based on xG model  
 
 ## Description 
 In this repo I present my implementation for Monte-Carlo football match sumulation for the English Premier League (EPL). 
