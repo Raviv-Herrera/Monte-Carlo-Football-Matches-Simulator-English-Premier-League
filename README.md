@@ -1,4 +1,4 @@
-# Monte-Carlo-Simulation-English-Premier-League
+# MonteCarlo-Simulation-English-Premier-League
 Monte-Carlo simulation generator for the English-Premier-League (EPL) based on xG model  
 
 ## Description 
