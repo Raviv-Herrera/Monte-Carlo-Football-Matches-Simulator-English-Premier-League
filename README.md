@@ -16,3 +16,7 @@ The results are good and reflect the real world in victory ratio, but when we di
 
 ### Note <!> 
 This repo is a part of "Prediction of Football Matches" project.
+
+If you desire to learn more about the xG model itself 
+- https://statsbomb.com/soccer-metrics/expected-goals-xg-explained/
+- https://www.bundesliga.com/en/bundesliga/news/expected-goals-xg-model-what-is-it-and-why-is-it-useful-sportec-solutions-3177
